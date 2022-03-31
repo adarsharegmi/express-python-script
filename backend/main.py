@@ -1,3 +1,5 @@
-import sys
-print(str("Welcome to new jersey"))
-sys.stdout.flush()
+def main():
+    print("Hello jersey")
+
+if __name__ == '__main__':
+    main()
